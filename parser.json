@@ -1,8 +1,7 @@
 {
-  "location": null,
   "url": "https://github.com/FoamScience/tree-sitter-foam",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "472c24f11a547820327fb1be565bcfff98ea96a4",
+  "location": null,
   "lang": "foam"
 }
